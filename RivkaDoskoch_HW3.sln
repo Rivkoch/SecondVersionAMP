@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RivkaDoskoch_HW3", "RivkaDoskoch_HW3\RivkaDoskoch_HW3.vcxproj", "{FE90E1DE-3029-4E48-A71A-BBD54F294D39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE90E1DE-3029-4E48-A71A-BBD54F294D39}.Debug|x64.ActiveCfg = Debug|x64
+		{FE90E1DE-3029-4E48-A71A-BBD54F294D39}.Debug|x64.Build.0 = Debug|x64
+		{FE90E1DE-3029-4E48-A71A-BBD54F294D39}.Debug|x86.ActiveCfg = Debug|Win32
+		{FE90E1DE-3029-4E48-A71A-BBD54F294D39}.Debug|x86.Build.0 = Debug|Win32
+		{FE90E1DE-3029-4E48-A71A-BBD54F294D39}.Release|x64.ActiveCfg = Release|x64
+		{FE90E1DE-3029-4E48-A71A-BBD54F294D39}.Release|x64.Build.0 = Release|x64
+		{FE90E1DE-3029-4E48-A71A-BBD54F294D39}.Release|x86.ActiveCfg = Release|Win32
+		{FE90E1DE-3029-4E48-A71A-BBD54F294D39}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA244CA6-1C73-417F-8187-257D63C28585}
+	EndGlobalSection
+EndGlobal
